@@ -7,7 +7,7 @@ Ubuntu: 18.04 \
 ROS: ROS 1 Melodic
 
 ### Step 0, Dependancies
-Make sure nvidia-docker2 package is installed
+Make sure nvidia-docker2 package is installed. Refer to ##Resources for install instructions.
 
 ### Step 1, download 
 download Dockerfile from this repo
@@ -71,5 +71,9 @@ https://answers.ros.org/question/325039/apt-update-fails-cannot-install-pkgs-key
 Install Nvidia-Docker 2.0 on Ubuntu 18.04
 ```
 https://medium.com/@linhlinhle997/how-to-install-docker-and-nvidia-docker-2-0-on-ubuntu-18-04-da3eac6ec494
+```
+or
+```
+https://cnvrg.io/how-to-setup-docker-and-nvidia-docker-2-0-on-ubuntu-18-04/
 ```
 
